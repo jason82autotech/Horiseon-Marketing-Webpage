@@ -36,6 +36,10 @@ The title element stated simply, "Website." I changed the title element to; "Hor
 
 This is not my original work. All source code cme from BCS Module 1 Challenge. I completed this assignment with the help of Google, YouTube, W3 Schools and the wonderful classmates and Ta's we have!
 
-Here is the URL of my deployed application; https://jason82autotech.github.io/Horiseon-Marketing-Webpage/#social-media-marketing
+* Here is the URL of my deployed application; https://jason82autotech.github.io/Horiseon-Marketing-Webpage/#social-media-marketing
 
-Here is the URL of my code stored on GitHub; https://github.com/jason82autotech/Horiseon-Marketing-Webpage
+* Here is the URL of my code stored on GitHub; https://github.com/jason82autotech/Horiseon-Marketing-Webpage
+
+* Here is a screenshot of the deployed application!
+
+![Screenshot](assets/images/Horiseon-Marketing-screenshot.png)
